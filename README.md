@@ -1,2 +1,2 @@
-# ubuntu-util
+# ubuntu-utility
 my ubuntu utilities
